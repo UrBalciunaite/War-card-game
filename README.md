@@ -1,5 +1,5 @@
 # War-card-game
-1.3.4
+1.3.4 peer programing task
 
 Game logic:
 - The game consist of a standard deck of 52 cards. Cards have ranks (2-10, J, Q, K, A) and suits (hearts, diamonds, clubs, spades)
