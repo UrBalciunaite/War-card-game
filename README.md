@@ -1,2 +1,2 @@
-# War---card-game
+# War-card-game
 1.3.4
